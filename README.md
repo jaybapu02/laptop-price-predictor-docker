@@ -173,4 +173,4 @@ This project is created for educational and learning purposes.
 
 Jaychandra Das
 
-Engineering Student | Machine Learning Enthusiast | Python Developer
+Engineering Student | Machine Learning Enthusiast | Python Developer | Tech Explorer
